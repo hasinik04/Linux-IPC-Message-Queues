@@ -23,7 +23,7 @@ Execute the C Program for the desired output.
 ## C program that receives a message from message queue and display them
 
 
-
+ 
 
 
 ## OUTPUT
